@@ -1,0 +1,6 @@
+@Apple.Services.EmailAPI_HostAddress = http://localhost:5166
+
+GET {{Apple.Services.EmailAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
