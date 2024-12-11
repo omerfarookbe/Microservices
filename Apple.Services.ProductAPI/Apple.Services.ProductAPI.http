@@ -1,0 +1,6 @@
+@Apple.Services.ProductAPI_HostAddress = http://localhost:5282
+
+GET {{Apple.Services.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
